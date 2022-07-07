@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 07 Jul 2022 01:46:23 at https://usdtwealth.pro +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://usdtwealth.pro -O1 "C:\Users\dimit\Desktop\2website" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:46:46	Error: 	"Not Found" (404) at link https://usdtwealth.pro/site.webmanifest (from https://usdtwealth.pro/)
+01:46:50	Error: 	"Not Found" (404) at link https://usdtwealth.pro/css/owl.video.play.html (from https://usdtwealth.pro/css/owl.carousel.min.css)
+01:46:50	Error: 	"Not Found" (404) at link https://usdtwealth.pro/css/mCSB_buttons.html (from https://usdtwealth.pro/css/jquery.mCustomScrollbar.min.css)
+01:46:50	Error: 	"Not Found" (404) at link https://usdtwealth.pro/css/default-skin.html (from https://usdtwealth.pro/css/default-skin.css)
+01:46:50	Error: 	"Not Found" (404) at link https://usdtwealth.pro/css/default-skin-2.html (from https://usdtwealth.pro/css/default-skin.css)
+01:46:50	Error: 	"Not Found" (404) at link https://usdtwealth.pro/css/preloader.html (from https://usdtwealth.pro/css/default-skin.css)
+01:46:50	Error: 	"Not Found" (404) at link https://usdtwealth.pro/rules (from https://usdtwealth.pro/?a=signup)
+
+HTTrack Website Copier/3.49-2 mirror complete in 27 seconds : 84 links scanned, 76 files written (4820209 bytes overall) [3910563 bytes received at 144835 bytes/sec], 1387723 bytes transferred using HTTP compression in 39 files, ratio 31%, 6.0 requests per connection
+(7 errors, 0 warnings, 0 messages)

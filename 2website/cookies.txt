@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+usdtwealth.pro	TRUE	/	FALSE	1999999999	CameFrom	deleted
+usdtwealth.pro	TRUE	/	FALSE	1999999999	PHPSESSID	8cp5jr9gl14883u9ggdavmgmh6
+.paykassa.pro	TRUE	/	FALSE	1999999999	__ddg1_	Emdsu4uOZqCvCAbTM1Eb
+
